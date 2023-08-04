@@ -7,7 +7,7 @@ I'm a Software Developer, currently freelancing. My core specialization lies in 
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on any interesting and challenging projects
 - 💬 Ask me about utilizing Postman and Cloudinary
-- 📫 How to reach me: [Your email and/or WhatsApp contact details here]
+- 📫 How to reach me: [Ibroraheem95@gmail.com](mailto:Ibroraheem95@gmail.com) or [WhatsApp](https://wa.me/2349066730744)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can be a bit weird - it's part of my charm!
 
